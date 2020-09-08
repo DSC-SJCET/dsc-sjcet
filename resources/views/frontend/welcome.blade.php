@@ -22,7 +22,7 @@
         </div>
         <div class="col-12 col-sm-5 ml-auto ml-pic">
           <div class="hero-figure">
-            <img src="{{ asset('images/frontend/diversity.png') }}" class="img-fluid w-100" alt="Illustration of diversity in our developer community">
+            <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599593756/diversity_m29pqb.png" class="img-fluid w-100" alt="Illustration of diversity in our developer community">
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@
       <div class="row align-items-center">
         <div class="col-sm-6">
           <div class="feature-list-image">
-            <img src="{{ asset('images/frontend/technologies/android.png') }}" class="img-fluid" alt="Official android logo" width="100%" height="50%">
+            <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599593803/android_fkoarc.png" class="img-fluid" alt="Official android logo" width="100%" height="50%">
           </div>
         </div>
         <div class="col-sm-5 ml-auto">
@@ -72,7 +72,7 @@
         </div>
         <div class="col-sm-6">
           <div class="feature-list-image">
-            <img src="{{ asset('images/frontend/technologies/web.png') }}" alt="Developer building a progressive web app" class="img-fluid" height="60%" width="90%">
+            <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599593822/web_ia0rib.png" alt="Developer building a progressive web app" class="img-fluid" height="60%" width="90%">
           </div>
         </div>
       </div>
@@ -83,7 +83,7 @@
       <div class="row align-items-center">
         <div class="col-sm-6">
           <div class="feature-list-image">
-            <img src="{{ asset('images/frontend/technologies/cloud.png') }}" class="img-fluid" alt="Illustration of data uploading to the cloud" width="90%">
+            <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599593808/cloud_ienmjp.png" class="img-fluid" alt="Illustration of data uploading to the cloud" width="90%">
           </div>
         </div>
         <div class="col-sm-5 ml-auto">
@@ -114,7 +114,7 @@
         </div>
         <div class="col-sm-6">
           <div class="feature-list-image">
-            <img src="{{ asset('images/frontend/technologies/mi.png') }}" class="img-fluid" alt="Robotic illustration of how many different things it can do" height="60%" width="90%">
+            <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599593815/mi_hchk1i.png" class="img-fluid" alt="Robotic illustration of how many different things it can do" height="60%" width="90%">
           </div>
         </div>
       </div>
