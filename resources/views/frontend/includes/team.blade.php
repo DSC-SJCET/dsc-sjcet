@@ -13,7 +13,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/cse-sarju1-180x180.jpg') }}" alt="mentor avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/Prof_Sarju_jab182.jpg" alt="mentor avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -51,7 +51,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/photo.jpg') }}" alt="lead avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/Sandeep_gefiqq.jpg" alt="lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -80,7 +80,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/Lija.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/Lija_oxzwi0.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -106,7 +106,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/sanjay.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542239/delivery/sanjay_qlovin.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -132,7 +132,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/santhosh.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542233/delivery/santhosh_keqann.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -158,7 +158,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/akash.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542230/delivery/akash_vrnthd.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -184,7 +184,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/Vimal.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542236/delivery/Vimal_cyhszn.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -211,7 +211,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/rohan.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/rohan_emwwp9.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -237,7 +237,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/sonu.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542233/delivery/sonu_qgrjlf.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -264,7 +264,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/anita.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542235/delivery/anita_ihvfmi.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -291,7 +291,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/elona.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542234/delivery/elona_va9dhv.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -318,7 +318,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/Liya.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542240/delivery/Liya_k1o792.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -345,7 +345,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/riya.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542241/delivery/riya_vvpucy.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -372,7 +372,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/Sona.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542232/delivery/Sona_njvkjz.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -398,7 +398,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="{{ asset('images/team/sreelekshmi.jpg') }}" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542231/delivery/sreelekshmi_psrpv8.jpg" alt="co-organizer avatar">
                   </div>
                   <div class="info">
                     <div class="title">
