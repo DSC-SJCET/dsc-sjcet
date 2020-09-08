@@ -71,10 +71,10 @@
               <h4 class="footer-widget__title">Contribute</h4>
               <ul class="list-unstyled">
                 <li>
-                  <a href="https://github.com/DSCEksu/dsceksu-laravel/issues/new?template=documentation-bug.md" target="_blank" rel="noreferrer">File a bug</a>
+                  <a href="#" target="_blank" rel="noreferrer">File a bug</a>
                 </li>
                 <li>
-                  <a href="https://github.com/DSCEksu/dsceksu-laravel" target="_blank" rel="noreferrer">View source</a>
+                  <a href="#" target="_blank" rel="noreferrer">View source</a>
                 </li>
                 <li>
                   <a href="javascript:;" onclick="share('{{ config('app.name') }}', '{{ config('app.url') }}', 'Have you been looking for a place you can learn technical skills for free? If yes, check out {{ config('app.nick') }} now at {{ config('app.info.location') }}')"><i class="fa fa-share"></i> Share</a>
