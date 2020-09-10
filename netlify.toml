@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://competent-pasteur-e1aeea.netlify.app/:splat"
-  status = 200
