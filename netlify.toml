@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://competent-pasteur-e1aeea.netlify.app/index.php"
+  status = 200
