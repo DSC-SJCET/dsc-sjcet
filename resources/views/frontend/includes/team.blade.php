@@ -13,7 +13,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/Prof_Sarju_jab182.jpg" alt="mentor avatar">
+                    <img src="team_img/Sarju Sir.png" alt="mentor avatar">
                   </div>
                   <div class="info">
                     <div class="title">
