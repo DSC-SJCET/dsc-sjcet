@@ -8,12 +8,14 @@
       <div class="container-fluid">
         <div id="carouselExample" class="carouselPrograms carousel slide" data-ride="carousel" data-interval="false">
           <div class="carousel-inner row w-100 mx-auto" role="listbox">
+            
+            <!-- Faculty Advisor -->
             <div class="carousel-item col-md-4 col-15 active">
               <div class="card event-card">
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="team_img/Sarju Sir.png" alt="mentor avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967083/DSC/SarjuSir_uzzfva.png" alt="mentor avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -46,16 +48,18 @@
                 </div>
               </div>
             </div>
+            
+            <!-- Lead -->
             <div class="carousel-item col-md-4 col-15">
               <div class="card event-card">
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/Sandeep_gefiqq.jpg" alt="lead avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967082/DSC/Aiswarya_smmeyl.png" alt="lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Sandeep Salmon</h5>
+                      <h5>Aiswarya Raju</h5>
                       <p>DSC Lead</p>
                     </div>
                     <!-- <div class="desc">Mobile, and web developer</div>
@@ -66,7 +70,7 @@
                     <ul class="social-list__inline mt-10">
 
                       <li>
-                        <a href="https://www.linkedin.com/in/sandeepsalmon" target="_blank" rel="noopener">
+                        <a href="https://www.linkedin.com/in/aiswarya-raju" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
@@ -75,24 +79,26 @@
                 </div>
               </div>
             </div>
+
+            <!-- Outreach Lead -->
             <div class="carousel-item col-md-4 col-15">
               <div class="card event-card">
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/Lija_oxzwi0.jpg" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967082/DSC/Anna_vhd18k.png" alt="outreach lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Lija Alex</h5>
-                      <p>DSC Co-Lead</p>
+                      <h5>Anna Thomas</h5>
+                      <p>Outreach Lead</p>
                     </div>
-
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
+
                       <li>
-                        <a href="https://www.linkedin.com/in/lijaalex123" target="_blank" rel="noopener">
+                        <a href="https://www.linkedin.com/in/anna-thomas-8244441a6" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
@@ -101,23 +107,26 @@
                 </div>
               </div>
             </div>
+
+            <!-- Creative Lead -->
             <div class="carousel-item col-md-4 col-15">
               <div class="card event-card">
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542239/delivery/sanjay_qlovin.jpg" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967082/DSC/Ajay_ocbeto.png" alt="creative lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Sanjay Suresh</h5>
-                      <p>Design Lead</p>
+                      <h5>Ajay T Shaju</h5>
+                      <p>Creative Lead</p>
                     </div>
-
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/sanjay-suresh-bab4951b6" target="_blank" rel="noopener">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/ajay-t-shaju-976212183" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
@@ -127,23 +136,165 @@
               </div>
             </div>
 
+            <!-- Community Org1 -->
             <div class="carousel-item col-md-4 col-15">
               <div class="card event-card">
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542233/delivery/santhosh_keqann.jpg" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967084/DSC/Jayasankar_jpllqz.png" alt="community organiser avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Santhosh Thomas</h5>
+                      <h5>Jayasankar Shyam</h5>
+                      <p>Community Organiser</p>
+                    </div>
+                  </div>
+                  <div class="bottom">
+                    <ul class="social-list__inline mt-10">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/jayasankarshyam" target="_blank" rel="noopener">
+                          <i class="fab fa-linkedin"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Community Org2 -->
+            <div class="carousel-item col-md-4 col-15">
+              <div class="card event-card">
+                <div class="card hovercard">
+                  <div class="cardheader"></div>
+                  <div class="avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967084/DSC/Swathilekshimi_getpkv.png" alt="community organiser avatar">
+                  </div>
+                  <div class="info">
+                    <div class="title">
+                      <h5>Swathilekshmi S</h5>
+                      <p>Community Organiser</p>
+                    </div>
+                  </div>
+                  <div class="bottom">
+                    <ul class="social-list__inline mt-10">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/swathi-lekshmi-s-a5a38b201" target="_blank" rel="noopener">
+                          <i class="fab fa-linkedin"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Content Lead -->
+            <div class="carousel-item col-md-4 col-15">
+              <div class="card event-card">
+                <div class="card hovercard">
+                  <div class="cardheader"></div>
+                  <div class="avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967081/DSC/Akash_ybnftw.png" alt="content lead avatar">
+                  </div>
+                  <div class="info">
+                    <div class="title">
+                      <h5>Akash Vijay</h5>
+                      <p>Content Lead</p>
+                    </div>
+                  </div>
+                  <div class="bottom">
+                    <ul class="social-list__inline mt-10">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/akash-vijay-34a078164" target="_blank" rel="noopener">
+                          <i class="fab fa-linkedin"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Marketing Lead -->
+            <div class="carousel-item col-md-4 col-15">
+              <div class="card event-card">
+                <div class="card hovercard">
+                  <div class="cardheader"></div>
+                  <div class="avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967081/DSC/Dona_prrvnw.png" alt="marketing lead avatar">
+                  </div>
+                  <div class="info">
+                    <div class="title">
+                      <h5>Dona S Plavelil</h5>
+                      <p>Marketing Lead</p>
+                    </div>
+                  </div>
+                  <div class="bottom">
+                    <ul class="social-list__inline mt-10">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/dona-s-plavelil" target="_blank" rel="noopener">
+                          <i class="fab fa-linkedin"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Marketing Org -->
+            <div class="carousel-item col-md-4 col-15">
+              <div class="card event-card">
+                <div class="card hovercard">
+                  <div class="cardheader"></div>
+                  <div class="avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967083/DSC/Treesa_wmqirc.png" alt="marketing organiser avatar">
+                  </div>
+                  <div class="info">
+                    <div class="title">
+                      <h5>Treesa Joseph</h5>
+                      <p>Marketing Organiser</p>
+                    </div>
+                  </div>
+                  <div class="bottom">
+                    <ul class="social-list__inline mt-10">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/treesa-joseph-03ba731b8" target="_blank" rel="noopener">
+                          <i class="fab fa-linkedin"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Technical Lead -->
+            <div class="carousel-item col-md-4 col-15">
+              <div class="card event-card">
+                <div class="card hovercard">
+                  <div class="cardheader"></div>
+                  <div class="avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967082/DSC/Rajat_fxbvxi.png" alt="tech lead avatar">
+                  </div>
+                  <div class="info">
+                    <div class="title">
+                      <h5>Rajat Mathew</h5>
                       <p>Technical Lead</p>
                     </div>
-
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/santhoshthomas268842" target="_blank" rel="noopener">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/rajatmathew" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
@@ -153,23 +304,25 @@
               </div>
             </div>
 
+            <!-- Technical Org1 -->
             <div class="carousel-item col-md-4 col-15">
               <div class="card event-card">
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542230/delivery/akash_vrnthd.jpg" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967082/DSC/Jose_rky54s.png" alt="tech organiser avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Akash Krishnan</h5>
-                      <p>PR/Marketing Lead</p>
+                      <h5>Jose K James</h5>
+                      <p>Technical Organiser</p>
                     </div>
-
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/akash-krishnan-madhavan-0b0215136" target="_blank" rel="noopener">
+
+                      <li>
+                        <a href="https://www.linkedin.com/in/josekjames" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
@@ -179,237 +332,25 @@
               </div>
             </div>
 
+            <!-- Technical Org2 -->
             <div class="carousel-item col-md-4 col-15">
               <div class="card event-card">
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542236/delivery/Vimal_cyhszn.jpg" alt="co-organizer avatar">
+                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640972931/DSC/Reenphy_z01cbm.png" alt="lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
-                      <h5>Vimal Jose</h5>
-                      <p>Communications Lead</p>
+                      <h5>Reenphy George</h5>
+                      <p>Technical Organiser</p>
                     </div>
-
                   </div>
                   <div class="bottom">
                     <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/vimal-jose-0116471a0" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
 
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542238/delivery/rohan_emwwp9.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Rohann Tom</h5>
-                      <p>Operations Lead</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/rohann-tom-4494091b6" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542233/delivery/sonu_qgrjlf.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Sonu K Babychan</h5>
-                      <p>Club Equity Lead</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/sonu-babychan-a22a53171" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542235/delivery/anita_ihvfmi.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Anita Mary</h5>
-                      <p>Marketing Coordinator</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/anitta-mary-thomas-b348aa1a5" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542234/delivery/elona_va9dhv.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Elona Sebastian</h5>
-                      <p>Communications Coordinator</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/elona-sebastian-538a321a8" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542240/delivery/Liya_k1o792.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Liya Mathew</h5>
-                      <p>Design Coordinator</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/liya-mathew-22a8b21a1" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542241/delivery/riya_vvpucy.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Riya Mathew</h5>
-                      <p>Developer Coordinator</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/riya-mathew-0939631a1" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542232/delivery/Sona_njvkjz.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Sona Ann Saji</h5>
-                      <p>Technical Coordinator</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/sona-ann-saji-06b43519b" target="_blank" rel="noopener">
-                          <i class="fab fa-linkedin"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="carousel-item col-md-4 col-15">
-              <div class="card event-card">
-                <div class="card hovercard">
-                  <div class="cardheader"></div>
-                  <div class="avatar">
-                    <img src="https://res.cloudinary.com/dscsjcet-cdn/image/upload/v1599542231/delivery/sreelekshmi_psrpv8.jpg" alt="co-organizer avatar">
-                  </div>
-                  <div class="info">
-                    <div class="title">
-                      <h5>Sreelakshmi S</h5>
-                      <p>Developer Coordinator</p>
-                    </div>
-
-                  </div>
-                  <div class="bottom">
-                    <ul class="social-list__inline mt-10">
-                        <a href="https://www.linkedin.com/in/sreelakshmi-s-3a28181a0" target="_blank" rel="noopener">
+                      <li>
+                        <a href="https://www.linkedin.com/in/reenphygeorge" target="_blank" rel="noopener">
                           <i class="fab fa-linkedin"></i>
                         </a>
                       </li>
