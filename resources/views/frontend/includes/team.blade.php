@@ -55,7 +55,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/mathews.jpg?raw=true" alt="lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Mathews%20P%20Mathew.png?raw=true" alt="lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -86,7 +86,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Naveen%20S.jpg?raw=true" alt="outreach lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Naveen%20S.png?raw=true" alt="outreach lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -114,7 +114,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Dua%20Ashraf_.jpg?raw=true" alt="outreach lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Dua%20Ashraf.png?raw=true" alt="outreach lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -142,7 +142,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://raw.githubusercontent.com/DSC-SJCET/dsc-sjcet/master/public/images/Team/Thomas%20K%20Binu.webp" alt="creative lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Thomas%20K%20Binu.png?raw=true" alt="creative lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -170,7 +170,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Devanada%20S.jpg?raw=true" alt="creative lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Devananda%20S.png?raw=true" alt="creative lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -198,7 +198,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/jose.jpg?raw=true" alt="community organiser avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Jose%20K%20James.png?raw=true" alt="community organiser avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -226,7 +226,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/RajatSandeep.png?raw=true" alt="community organiser avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Rajat%20Sandeep.png?raw=true" alt="community organiser avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -254,7 +254,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Sandra%20Mariya%20Binu_.jpg?raw=true" alt="community organiser avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Sandra%20Maria%20Binu.png?raw=true" alt="community organiser avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -282,7 +282,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://res.cloudinary.com/rxg/image/upload/v1640967084/DSC/Swathilekshimi_getpkv.png" alt="community organiser avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Jovit%20Mathew.png?raw=true" alt="community organiser avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -310,7 +310,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/austin.jpg?raw=true" alt="community organiser avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Austin%20Benny.png?raw=true" alt="community organiser avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -338,7 +338,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/alby.jpeg?raw=true" alt="content lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Alby%20Joseph.png?raw=true" alt="content lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -366,7 +366,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Albitta%20Joshy.jpg?raw=true" alt="content lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Albitta%20Joshy.png?raw=true" alt="content lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -394,7 +394,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Dona%20Siby.jpg?raw=true" alt="content lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Dona%20Siby.png?raw=true" alt="content lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -422,7 +422,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/sachinphilip.jpg?raw=true" alt="content lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Sachin%20Philip.png?raw=true" alt="content lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -450,7 +450,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Devamanas%20S.S.jpg?raw=true" alt="content lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Devamanas%20S.S.png?raw=true" alt="content lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -478,7 +478,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="" alt="content lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Shaine%20Thomas.png?raw=true" alt="content lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
@@ -506,7 +506,7 @@
                 <div class="card hovercard">
                   <div class="cardheader"></div>
                   <div class="avatar">
-                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Anju%20Benny.%20jpg.jpg?raw=true" alt="content lead avatar">
+                    <img src="https://github.com/DSC-SJCET/dsc-sjcet/blob/master/public/images/Team/Anju%20Benny.png?raw=true" alt="content lead avatar">
                   </div>
                   <div class="info">
                     <div class="title">
